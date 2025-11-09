@@ -32,6 +32,14 @@ This project combines historical tribute with cutting-edge blockchain technology
 - Nosferatu (1922)
 - And more...
 
+## Demo
+
+Watch how the system processes public domain movie frames:
+
+https://github.com/handbrakelatenights/Anna-Maria-Pierangeli/assets/1762688975395.mov
+
+*Example demonstration of frame extraction and processing from a public domain film.*
+
 ## Quick Start
 
 ### Installation
