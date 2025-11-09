@@ -1,0 +1,17 @@
+# Anna Maria Pierangeli - Public Domain Movie Processing
+# Core video/audio processing
+opencv-python>=4.8.0
+aiohttp>=3.9.0
+aiofiles>=23.2.1
+
+# Blockchain and NFT
+web3>=6.11.0
+eth-account>=0.10.0
+
+# Utilities
+python-dotenv>=1.0.1
+requests>=2.31.0
+
+# Database (optional - for News integration)
+motor==3.3.1
+pymongo==4.5.0
